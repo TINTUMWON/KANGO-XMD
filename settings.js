@@ -1,7 +1,7 @@
 /*
   project_name : 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿 Bot
   Version : 2.4.0
-  Owner : Hector Manuel
+  Owner : 𝘛𝘐𝘕𝘛𝘜 𝘔𝘞𝘖𝘕
   Do Not Clone 
 
 
